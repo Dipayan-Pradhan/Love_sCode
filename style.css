@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+.paper {
+    padding:100px 100px;
+}
+
+body {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('');
+    background-image: url('dea097c9-518d-4289-8f6a-184bc818b95f.jpeg');
+    background-size: 1000px;
+    background-position: center center;
+}
+.paper{
+
+    position: absolute;
+
+    background-image: url('Instagram wallpaper _ story _ template _ stories _ beige &brown.jpeg');
+    background-size: 300px;
+    background-position: center center;
+    padding: 0px 70px;
+    transform: rotateZ(-5deg); 
+    box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
+
+}
+/* .paper.heart {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    border-radius: 50%;
+    } */
+
+    .paper.image {
+    padding: 10px;
+    }
+    .paper.image p {
+    font-size: 30px;
+    }
+
+    img {
+    max-height: 200px;
+    width: 100%;
+    user-select: none;
+    }
+
+    
+p {
+    font-family: 'Amatic SC';
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    opacity: 0.75;
+    user-select: none;
+    
+    filter: drop-shadow(2px 1.5px 1px rgba(105, 65, 0, 0.9)); 
+}
+
+    
